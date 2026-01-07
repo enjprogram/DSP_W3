@@ -2,14 +2,7 @@
 <html lang = "en">
 <head>
   <meta charset="UTF-8">
-  <title>Finance Sandbox Chatbot</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
-    h1, h2, h3 { color: #2C3E50; }
-    a:hover { text-decoration: underline; }
-    ul {margin-left: 20px; }
-    .section { margin-bottom: 30px; }
-  </style>
+  Finance Sandbox Chatbot
 </head>
 <body>
   <div class="section">
